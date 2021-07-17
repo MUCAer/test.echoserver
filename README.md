@@ -1,3 +1,3 @@
 # test.echoserver
-测试用的echoserver
-PORT:8000
+测试用的echoserver  
+PORT:9000
